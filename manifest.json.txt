@@ -1,6 +1,10 @@
 {
-  "version": "2.0.1",
-  "file": "https://pradipmakwan.github.io/docs-ota/ota/manifest.json",
-  "md5": "" 
+  "name": "ESP32 IR Gateway",
+  "version": "1.0.3",
+  "build": 103,
+  "chip": "ESP32",
+  "fw_url": "https://pradipmakwan.github.io/docs-ota/ota/esp32-ir-v1.0.3.bin",
+  "sha256": "PUT_SHA256_OF_BIN_HERE_IN_HEX",
+  "size": 573440,
+  "notes": "Bug fixes and stability improvements"
 }
-
