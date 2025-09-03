@@ -1,5 +1,6 @@
 {
   "version": "2.0.1",
-  "file": "https://Pradipmakwan.github.io/<repo>/ota/manifest.json",
+  "file": "https://pradipmakwan.github.io/docs-ota/ota/manifest.json",
   "md5": "" 
 }
+
